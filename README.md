@@ -10,6 +10,8 @@ Turno (varchar no nulo)
 ![image](https://user-images.githubusercontent.com/75990840/148610670-fe491074-87b3-4a0c-998d-d158ea8cd2c6.png)
 
 2 Agregue un campo “cupo” de tipo numérico
+![image](https://user-images.githubusercontent.com/75990840/148612956-37a56bb2-dc86-40dd-b2ef-2322f866d2ee.png)
+
 
 3 Inserte datos en la tabla:
 (101, “Algoritmos”,”Algoritmos y Estructuras de Datos”,”Mañana”,35)
