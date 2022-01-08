@@ -15,7 +15,12 @@ Turno (varchar no nulo)
 
 3 Inserte datos en la tabla:
 (101, “Algoritmos”,”Algoritmos y Estructuras de Datos”,”Mañana”,35)
+![image](https://user-images.githubusercontent.com/75990840/148647716-15b1d8be-4559-4270-a173-ad591362bbfc.png)
+
 (102, “Matemática Discreta”,””,”Tarde”,30)
+![image](https://user-images.githubusercontent.com/75990840/148647747-e323f2af-3901-4611-8b31-d4148d24f8a9.png)
+
+
 4 Intente ingresar un registro con el nombre nulo y verifique que no funciona.
 5 Intente ingresar un registro con la clave primaria repetida y verifique que no funciona.
 6 Actualice, para todos los cursos, el cupo en 25.
