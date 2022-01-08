@@ -15,7 +15,7 @@ Turno (varchar no nulo)
 
 3 Inserte datos en la tabla:
 (101, “Algoritmos”,”Algoritmos y Estructuras de Datos”,”Mañana”,35)
-![image](https://user-images.githubusercontent.com/75990840/148647716-15b1d8be-4559-4270-a173-ad591362bbfc.png)
+![image](https://user-images.githubusercontent.com/75990840/148648683-4a5a4774-1067-43c9-8ea4-a651f6bf3fec.png)
 
 (102, “Matemática Discreta”,””,”Tarde”,30)
 ![image](https://user-images.githubusercontent.com/75990840/148647747-e323f2af-3901-4611-8b31-d4148d24f8a9.png)
